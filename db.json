@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Orquidea",
+      "image": "https://fyf.tac-cdn.net/images/products/large/P-204.jpg?auto=webp&quality=80&width=690",
+      "price": "0.01",
+      "id": 8
     }
   ]
 }
